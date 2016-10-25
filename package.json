@@ -9,6 +9,7 @@
   "bin": {
     "fcompass": "bin/fcompass.js"
   },
+  "repository": "hayalet/fcompass",
   "files": [
     "bin",
     "index.js",
