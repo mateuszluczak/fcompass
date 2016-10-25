@@ -16,7 +16,7 @@ $ fcompass --help
     $ fcompass <glob>
 
   Example
-    $ f-compass "scss/**/*.scss --ruby
+    $ f-compass "scss/**/*.scss" --ruby
 
   Options
     --ruby  Show only functions requiring ruby
