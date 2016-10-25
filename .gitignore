@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules
+bower_components
+
+# Cache
+.npm
+.sass-cache
+
+# Filesystem
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea
+*.sublime-workspace
+*.sublime-project

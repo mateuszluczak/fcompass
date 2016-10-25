@@ -1,0 +1,11 @@
+$black: #000;
+
+.box {
+  margin: rhythm(1) 0;
+}
+
+.text {
+  p {
+    color: contrast-color($black);
+  }
+}

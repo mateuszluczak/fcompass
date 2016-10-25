@@ -1,0 +1,11 @@
+.text {
+  @include inline-block(middle);
+  @include box-sizing(border-box);
+  color: red;
+
+  div {
+    @include clearfix;
+  }
+}
+
+

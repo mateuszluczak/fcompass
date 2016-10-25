@@ -1,0 +1,13 @@
+$sprites: sprite-map('icons/*.png');
+
+.background {
+  background: inline-image('asdf.png');
+}
+
+#{headers()} {
+  font-size: 12px;
+}
+
+.icon {
+  background: sprite($sprites, icon);
+}
