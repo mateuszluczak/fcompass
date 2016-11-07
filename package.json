@@ -1,6 +1,6 @@
 {
   "name": "fcompass",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Check dependencies and say farewell to compass",
   "author": "Mateusz Luczak <mateusz.luczak@outlook.com>",
   "scripts": {
